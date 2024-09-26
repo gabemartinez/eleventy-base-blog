@@ -1,9 +1,10 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: About Your Host
   order: 3
 ---
-# About Me
 
-I am a person that writes stuff.
+# About Your Host
+
+Let's learn about web dev and software engineering together.
