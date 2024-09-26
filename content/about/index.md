@@ -1,10 +1,10 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Your Host
+  key: About
   order: 3
 ---
 
-# About Your Host
+# About
 
-Let's learn about web dev and software engineering together.
+Let's learn about web development and software engineering together.
