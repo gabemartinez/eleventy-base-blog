@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
-	<title>Eleventy Base Blog v8</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<title>Gabriel Martinez</title>
+	<subtitle>Let&#39;s discuss web dev and software engineering.</subtitle>
 	<link href="https://example.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/eleventy-base-blog/"/>
 	<updated>2018-09-30T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Gabriel Martinez</name>
+		<email>gibbi33@gmail.com</email>
 	</author>
 	
 	<entry>
